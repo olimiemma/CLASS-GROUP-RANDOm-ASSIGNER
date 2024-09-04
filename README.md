@@ -1,6 +1,6 @@
 # Random Group Assignment Scripts
 
-This repository contains two Python scripts for randomly assigning students into groups. These scripts are useful for educators, event organizers, or anyone who needs to quickly and fairly divide a set of individuals into groups.
+This repository contains two Python scripts for randomly assigning students into groups. These scripts are useful for educators, event organizers, or anyone who needs to quickly and fairly divide a set of individuals into groups. I created this while in Visual Design class and we needed to create groups, but people were finding issues because we all didnt really know each other. So I suggested to the proff that we randomly assign the groups, to which I created this script to do so and we managed to solve the group asign problem:)
 
 ## Scripts
 
